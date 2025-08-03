@@ -1,0 +1,4 @@
+1. S3 provodes u with unlimited storage*.
+2.You donnt need to to think about the underlying infrastrcuture.
+3. S3 console provides an interface for you to upload and access your data.
+
